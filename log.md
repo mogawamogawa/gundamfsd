@@ -1,6 +1,6 @@
 # 🎃 3/23
 
 - とりあえず作業ログ用のリポジトリを作った。以下は現状左足のみ。
-- <img src="/Users/mogawa/gundamfsd/photo/IMG_20210323_000202.jpg" alt="IMG_20210323_000202" style="zoom:10%;" />
+- <img src="photo/IMG_20210323_000202.jpg" alt="IMG_20210323_000202" style="zoom:10%;" />
 
 - 明日は左足の残りのデカールを貼る。
